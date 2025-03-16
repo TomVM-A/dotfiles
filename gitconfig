@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tomasvm01@gmail.com
+	name = tomas vargas montes
